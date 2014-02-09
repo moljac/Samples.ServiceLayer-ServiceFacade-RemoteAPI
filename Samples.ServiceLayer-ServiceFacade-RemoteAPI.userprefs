@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HolisticWare.WebApp.MVC4RazorWebAPISignalR-1x/Views/Tests/Index.cshtml">
+    <Files>
+      <File FileName="HolisticWare.WebApp.MVC4RazorWebAPISignalR-1x/ServiceLayerRemoteAPI/SignalR/tracker-test.html" Line="99" Column="67" />
+      <File FileName="HolisticWare.WebApp.MVC4RazorWebAPISignalR-1x/ServiceLayerRemoteAPI/SignalR/trackerhub-client.max.js" Line="30" Column="1" />
+      <File FileName="HolisticWare.WebApp.MVC4RazorWebAPISignalR-1x/Views/Tests/Index.cshtml" Line="15" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
