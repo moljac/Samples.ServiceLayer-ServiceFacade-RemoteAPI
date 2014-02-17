@@ -1,10 +1,6 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
-    <Files>
-      <File FileName="HolisticWare.WebApp.MVC4RazorWebAPI/Global.asax.cs" Line="1" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/moljac/Projects/Samples/Samples.ServiceLayer-ServiceFacade-RemoteAPI/HolisticWare.WebApp.MVC4RazorTwitterBootstrapWebAPISignalR-2/Owin/StartUp.cs" line="18" column="1" />

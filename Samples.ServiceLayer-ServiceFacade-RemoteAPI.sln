@@ -1,13 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolisticWare.WebApp.MVC4RazorWebAPISignalR-1x", "HolisticWare.WebApp.MVC4RazorWebAPISignalR-1x\HolisticWare.WebApp.MVC4RazorWebAPISignalR-1x.csproj", "{FEEF089D-B323-4BEA-8A64-F5892C3DFCCA}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.0", "4.0", "{68DD4E4C-C6AB-4FF1-8682-BA1CAC5E5439}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolisticWare.WebApp.MVC5SignalR-2", "HolisticWare.WebApp.MVC5SignalR-2\HolisticWare.WebApp.MVC5SignalR-2.csproj", "{A12B2880-D050-4DA6-A1B3-915FD052EB39}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolisticWare.WebApp.MVC4RazorWebAPISignalR-1x", "4.0\HolisticWare.WebApp.MVC4RazorWebAPISignalR-1x\HolisticWare.WebApp.MVC4RazorWebAPISignalR-1x.csproj", "{FEEF089D-B323-4BEA-8A64-F5892C3DFCCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolisticWare.WebApp.MVC4RazorTwitterBootstrapWebAPISignalR-2", "HolisticWare.WebApp.MVC4RazorTwitterBootstrapWebAPISignalR-2\HolisticWare.WebApp.MVC4RazorTwitterBootstrapWebAPISignalR-2.csproj", "{39B1D933-C5A6-438E-BB33-9D043E436AA3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolisticWare.WebApp.MVC4RazorWebAPI", "4.0\HolisticWare.WebApp.MVC4RazorWebAPI\HolisticWare.WebApp.MVC4RazorWebAPI.csproj", "{33C185E7-E9EF-4ACD-B0CE-ADEE0BDEA976}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolisticWare.WebApp.MVC4RazorWebAPI", "HolisticWare.WebApp.MVC4RazorWebAPI\HolisticWare.WebApp.MVC4RazorWebAPI.csproj", "{8CF1239F-9FAA-41B0-8F7D-5CFD6800C76D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.5", "4.5", "{D1BF5161-D2A9-4213-A51F-622EFDBBA44B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolisticWare.WebApp.MVC4RazorTwitterBootstrapWebAPISignalR-2", "4.5\HolisticWare.WebApp.MVC4RazorTwitterBootstrapWebAPISignalR-2\HolisticWare.WebApp.MVC4RazorTwitterBootstrapWebAPISignalR-2.csproj", "{39B1D933-C5A6-438E-BB33-9D043E436AA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolisticWare.WebApp.MVC4RazorWebAPI", "4.5\HolisticWare.WebApp.MVC4RazorWebAPI\HolisticWare.WebApp.MVC4RazorWebAPI.csproj", "{8CF1239F-9FAA-41B0-8F7D-5CFD6800C76D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolisticWare.WebApp.MVC5SignalR-2", "4.5\HolisticWare.WebApp.MVC5SignalR-2\HolisticWare.WebApp.MVC5SignalR-2.csproj", "{A12B2880-D050-4DA6-A1B3-915FD052EB39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33C185E7-E9EF-4ACD-B0CE-ADEE0BDEA976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C185E7-E9EF-4ACD-B0CE-ADEE0BDEA976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C185E7-E9EF-4ACD-B0CE-ADEE0BDEA976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C185E7-E9EF-4ACD-B0CE-ADEE0BDEA976}.Release|Any CPU.Build.0 = Release|Any CPU
 		{39B1D933-C5A6-438E-BB33-9D043E436AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{39B1D933-C5A6-438E-BB33-9D043E436AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39B1D933-C5A6-438E-BB33-9D043E436AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -32,8 +42,15 @@ Global
 		{FEEF089D-B323-4BEA-8A64-F5892C3DFCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEEF089D-B323-4BEA-8A64-F5892C3DFCCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FEEF089D-B323-4BEA-8A64-F5892C3DFCCA} = {68DD4E4C-C6AB-4FF1-8682-BA1CAC5E5439}
+		{33C185E7-E9EF-4ACD-B0CE-ADEE0BDEA976} = {68DD4E4C-C6AB-4FF1-8682-BA1CAC5E5439}
+		{39B1D933-C5A6-438E-BB33-9D043E436AA3} = {D1BF5161-D2A9-4213-A51F-622EFDBBA44B}
+		{8CF1239F-9FAA-41B0-8F7D-5CFD6800C76D} = {D1BF5161-D2A9-4213-A51F-622EFDBBA44B}
+		{A12B2880-D050-4DA6-A1B3-915FD052EB39} = {D1BF5161-D2A9-4213-A51F-622EFDBBA44B}
+	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = HolisticWare.WebApp.MVC4RazorWebAPI\HolisticWare.WebApp.MVC4RazorWebAPI.csproj
+		StartupItem = 4.0\HolisticWare.WebApp.MVC4RazorWebAPI\HolisticWare.WebApp.MVC4RazorWebAPI.csproj
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
