@@ -1,18 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="4.0/HolisticWare.WebApp.MVC4RazorTwitterBootstrapWebAPI/Global.asax.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="4.0/HolisticWare.WebApp.MVC4RazorTwitterBootstrapWebAPI SignalR1x/ServiceLayerRemoteAPI/SignalR/index.html">
     <Files>
-      <File FileName="4.0/HolisticWare.WebApp.MVC4RazorTwitterBootstrapWebAPI/Web.config" Line="22" Column="30" />
-      <File FileName="4.0/HolisticWare.WebApp.MVC4RazorTwitterBootstrapWebAPI/App_Start/BootstrapBundleConfig.cs" Line="23" Column="13" />
-      <File FileName="4.0/HolisticWare.WebApp.MVC4RazorTwitterBootstrapWebAPI/App_Start/BundleConfig.cs" Line="42" Column="43" />
-      <File FileName="4.0/HolisticWare.WebApp.MVC4RazorTwitterBootstrapWebAPI/Global.asax.cs" Line="30" Column="20" />
+      <File FileName="4.0/HolisticWare.WebApp.MVC4RazorTwitterBootstrapWebAPI SignalR1x/ServiceLayerRemoteAPI/SignalR/index.html" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/moljac/Projects/Samples/Samples.ServiceLayer-ServiceFacade-RemoteAPI/HolisticWare.WebApp.MVC4RazorTwitterBootstrapWebAPISignalR-2/Owin/StartUp.cs" line="18" column="1" />
-      <Breakpoint file="/Users/moljac/Projects/Samples/Samples.ServiceLayer-ServiceFacade-RemoteAPI/HolisticWare.WebApp.MVC4RazorWebAPI/Global.asax.cs" line="19" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
