@@ -27,7 +27,7 @@ namespace HolisticWare.WebApp.MVC4RazorWebAPI
 			FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
 
 			RouteConfig.RegisterRoutes(RouteTable.Routes);
-			//BundleConfig.RegisterBundles(BundleTable.Bundles);
+			BundleConfig.RegisterBundles(BundleTable.Bundles);
 			
 			//BootstrapMvcSample.ExampleLayoutsRouteConfig.RegisterRoutes(RouteTable.Routes);
 

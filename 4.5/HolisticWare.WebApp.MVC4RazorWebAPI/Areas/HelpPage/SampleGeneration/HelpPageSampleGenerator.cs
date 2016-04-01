@@ -251,7 +251,7 @@ namespace HolisticWare.WebApp.MVC4RazorWebAPI.Areas.HelpPage
                 {
                     ms = new MemoryStream();
                     content = new ObjectContent(type, value, formatter, mediaType);
-                    formatter.WriteToStreamAsync(type, value, ms, content, null).Wait();
+                    formatter.WriteToStreamAsync(type, value, ms, , content, null).Wait();
                     ms.Position = 0;
                     StreamReader reader = new StreamReader(ms);
                     string serializedSampleString = reader.ReadToEnd();

@@ -40,7 +40,7 @@ namespace HolisticWare.WebApp.MVC4RazorWebAPI
 					new ScriptBundle("~/bundles/signalr")
 								.Include
 									(
-									  "~/Scripts/jquery.signalR-{version}.js*"
+									  "~/Scripts/jquery.signalR-{version}.js"
 									, "~/signalr/hubs/"
 									)
 				);
